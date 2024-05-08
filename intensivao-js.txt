@@ -1,0 +1,17 @@
+Conteudos Intensivão JavaScript -> 
+
+- Introdução ao JS console.log("Hello World") 
+- JavaScript no HTML 
+- NodeJS 
+- Tipos de dados 
+- Operadores 
+- Control Flow {
+if, else... 
+switch, case.. 
+for 
+}
+- Objects 
+- Arrays 
+- Funcitions
+
+ 
