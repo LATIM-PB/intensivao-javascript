@@ -1,5 +1,5 @@
-// const Header = () => {
-//    return(<div className="header"> 
-//    <h1 className='header-title'> React Exercises </h1>
+// const Hello = () => {
+//    return(<div className="div-hello"> 
+//    <h1 className='title'> Hello World React </h1>
 //    </div>)
 // }  
